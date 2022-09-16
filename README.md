@@ -7,7 +7,7 @@ Projects on key investment banking topics
 - Mergers & Acquisitions (to be completed)
 - Transaction / Trading Comparables (to be completed)
 
-## This repository contains the following documents:
+### This repository contains the following documents:
 - FSM & Valuation Apple 2018.xlsx - The excel document that contains financial statement modelling and discounted cash flows of Apple for 2018.
 - AAPL 2018 10K
 - Apple 2019 10K
