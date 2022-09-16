@@ -18,4 +18,4 @@ Projects on key investment banking topics
 - JPMorgan Equity Research #2 - Apple - Equity research for Apple 2019 - 2021 projections page 2
 
 ## Note
-- Should you encounter any issues you can reach me at saad-ibrahim@hotmail.co.uk
+Should you encounter any issues you can reach me at saad-ibrahim@hotmail.co.uk
