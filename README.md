@@ -4,6 +4,7 @@ Projects on key investment banking topics
 ### The objective of this repository is to highlight projects relating to the following investment banking topics:
 - Financial Statement Modelling
 - Discounted Cash Flows
+- Building buyers list using PitchBook (to be completed)
 - Mergers & Acquisitions (to be completed)
 - Transaction / Trading Comparables (to be completed)
 
